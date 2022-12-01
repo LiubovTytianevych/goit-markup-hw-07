@@ -1,24 +1,24 @@
 //utils
-@import "./utils/_modern-normalize";
-@import "./utils/_variables";
+@import './utils/modern-normalize';
+@import './utils/variables';
 
 //base styles
-@import "./base/_base";
-@import "./base/_container";
+@import './base/base';
+@import './base/container';
 
 //components
-@import "./components/_header";
-@import "./components/_nav-header";
-@import "./components/_address";
-@import "./components/_banet__header";
-@import "./components/_features__container";
-@import "./components/_examples";
-@import "./components/_activity";
-@import "./components/_team";
-@import "./components/_socials";
-@import "./components/_customers";
-@import "./components/_footer";
-@import "./components/_filters__list";
-@import "./components/_project";
-@import "./components/_modal";
+@import './components/header';
+@import './components/nav-header';
+@import './components/address';
+@import './components/banet__header';
+@import './components/features__container';
+@import './components/examples';
+@import './components/activity';
+@import './components/team';
+@import './components/socials';
+@import './components/customers';
+@import './components/footer';
+@import './components/filters__list';
+@import './components/project';
+@import './components/modal';
 
