@@ -1,0 +1,26 @@
+:root {
+    --color-background: #fff;
+    --color-primary: #2193f6;
+    --color-section: #f5f4fa;
+    --color-text: #212121;
+    --color-button: #2196F3;
+}
+body {
+    font-family: 'Roboto',sans-serif;
+    color:var(--color-text);
+}
+/* reset start*/
+h1,h2,h3,h4,h5,h6,p {
+    margin: 0;
+}
+.link {
+    text-decoration: none;
+}
+.list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.section {
+    padding: 94px 0;
+}
